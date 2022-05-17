@@ -34,6 +34,8 @@
       #nav1 p, #nav1 ul {
 	width: 50%;
 	margin: 0 auto;
+	display: flex;
+	flex-wrap: wrap;
       }
       #nav1 p {
 	padding: 20px;
